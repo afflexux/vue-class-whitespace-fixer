@@ -1,3 +1,10 @@
+![npm](https://img.shields.io/npm/v/vue-class-whitespace-fixer)
+![license](https://img.shields.io/npm/l/vue-class-whitespace-fixer)
+![downloads](https://img.shields.io/npm/dt/vue-class-whitespace-fixer)
+![downloads](https://img.shields.io/npm/dw/vue-class-whitespace-fixer)
+![downloads](https://img.shields.io/npm/dm/vue-class-whitespace-fixer)
+![GitHub last commit](https://img.shields.io/github/last-commit/afflexux/vue-class-whitespace-fixer)
+
 # vue-class-whitespace-fixer
 
 A tool to fix excessive whitespace in class attributes of Vue files.

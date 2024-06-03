@@ -1,0 +1,20 @@
+{
+    "name": "vue-class-whitespace-fixer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "A tool to remove excessive whitespace in Vue class attributes.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "vue-class-whitespace-fixer": "./cli.js"
+    },
+    "keywords": [
+        "vue",
+        "class",
+        "whitespace",
+        "fixer"
+    ],
+    "author": "afflexux",
+    "license": "ISC"
+}

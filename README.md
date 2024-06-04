@@ -7,7 +7,7 @@
 
 ## This package will be deprecated soon as it has been superseded by another package with a wider scope of usage.
 
-### You can check out the [whitespace-fixer](https://www.npmjs.com/package/whitespace-fixer) package for a more comprehensive solution.
+## You can check out the [whitespace-fixer](https://www.npmjs.com/package/whitespace-fixer) package for a more comprehensive solution.
 
 # vue-class-whitespace-fixer
 
